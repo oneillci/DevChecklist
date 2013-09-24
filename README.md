@@ -31,5 +31,5 @@
 1. All changes of database schemas are to be applied to relevant staging tables in external and internal databases
 1. All changes of database schemas are to be applied to OBC_MBC as well.
 1. Change of schemas normally indicates new records are to be added to t_ads_dictionary table and rebuild of view table in SQL server for datasync processing
-2. 
+2. A new baseline of every database schema is required for every release
 
