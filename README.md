@@ -25,3 +25,8 @@
 1. Action that return  JSON that require you to be logged in should be decorated with [AjaxAuthorize]
 1. Check your local ELMAH log to see if your code is generating any errors that are being swallowed
 1. DB columns should have sensible column lengths & indexes specified
+
+###Database
+1. Have you added and checked in any database schema change?
+
+
