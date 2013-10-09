@@ -30,6 +30,9 @@
 1. DB columns should have sensible column lengths & indexes specified
 1. Mitigate querystring tampering. If loading data based on a querystring parameter, ensure that the logged on user has is the owner of the the requested data 
 
+##WCAG
+1. Run the Squiz labs html code sniffer on each page and fix errors. http://squizlabs.github.io/HTML_CodeSniffer/ - copy bookmarklet to bookmark bar in Chrome
+
 ###Database
 1. All changes of database schemas are to be applied to database projects and and checked the in TFS
 1. All changes of database schemas are to be applied to relevant staging tables in external and internal databases
