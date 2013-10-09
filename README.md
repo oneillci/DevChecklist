@@ -28,6 +28,7 @@
 1. Action that return  JSON that require you to be logged in should be decorated with [AjaxAuthorize]
 1. Check your local ELMAH log to see if your code is generating any errors that are being swallowed
 1. DB columns should have sensible column lengths & indexes specified
+1. Mitigate querystring tampering. If loading data based on a querystring parameter, ensure that the logged on user has is the owner of the the requested data 
 
 ###Database
 1. All changes of database schemas are to be applied to database projects and and checked the in TFS
