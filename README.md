@@ -13,6 +13,9 @@
 1. JavaScript should not subscribe to any events at a global level - should always be scoped to a function definition
 1. Test double-clicking of submit buttons
 1. Test page behaviour with slow sql server responses
+1. Check page against webdevchecklist.com (install chrome extension)
+1. Achieve good score in Google PageSpeed
+1. Achieve good score in Yahoo! YSlow
 
 ###Server-side
 1. Have unit tests been written?
