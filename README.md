@@ -4,6 +4,7 @@
 
 ###Client-side
 1. Has javascript been unit tested?
+1. Test page in various browsers (support back to IE8) for UI bugs
 1. All html forms (think POST) should have @Html.AntiForgeryToken()
 1. All form headers should be driven from t_WebContent
 1. CSS should be in css file, not inline
