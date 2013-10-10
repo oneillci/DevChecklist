@@ -14,8 +14,8 @@
 1. Test double-clicking of submit buttons
 1. Test page behaviour with slow sql server responses
 1. Check page against webdevchecklist.com (install chrome extension)
-1. Achieve good score in Google PageSpeed
-1. Achieve good score in Yahoo! YSlow
+1. Achieve good score in Google PageSpeed (install chrome extension)
+1. Achieve good score in Yahoo! YSlow (install chrome extension)
 
 ###Server-side
 1. Have unit tests been written?
